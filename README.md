@@ -85,7 +85,9 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
+
+cd Unlimited-Filter-Bot(https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
